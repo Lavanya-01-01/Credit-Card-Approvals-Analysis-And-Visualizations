@@ -1,0 +1,1001 @@
+Candidate Name,Age,Gender,Salary,Income,Job Details,Credit History,Credit Score,Existing Loans,Credit Status
+Anjali Jain,22,Female,72978,80494,Consultant,Bad,521,2,Rejected
+Rahul Iyer,23,Female,85895,88953,Accountant,Bad,379,0,Rejected
+Amit Kumar,46,Female,58514,61636,Teacher,No History,473,2,Rejected
+Arjun Devi,57,Male,94444,102156,Software Engineer,Good,375,2,Rejected
+Rahul Babu,58,Male,20894,27545,Teacher,Good,676,3,Rejected
+Sneha Sharma,53,Female,24904,27250,Teacher,Bad,766,1,Rejected
+Amit Gupta,52,Male,78786,85132,Manager,Bad,329,2,Rejected
+Meera Babu,21,Male,91788,93843,Analyst,Bad,436,3,Rejected
+Neha Patel,53,Male,39546,42843,Analyst,Good,411,3,Rejected
+Divya Devi,23,Female,39419,49308,Nurse,No History,775,0,Rejected
+Kiran Reddy,46,Female,54563,57485,Manager,Good,898,2,Approved
+Santosh Gupta,30,Female,50459,59953,Nurse,No History,849,3,Rejected
+Arjun Yadav,54,Male,76147,77233,Software Engineer,Good,321,2,Rejected
+Rahul Iyer,57,Male,54088,59789,Analyst,Bad,517,1,Rejected
+Manoj Gupta,40,Female,49181,57709,Teacher,Bad,347,3,Rejected
+Arjun Das,35,Female,63188,64338,Manager,Good,389,1,Rejected
+Pooja Patel,31,Female,90542,96599,Manager,Bad,549,3,Rejected
+Suresh Reddy,58,Female,28577,31367,Manager,Good,381,1,Rejected
+Kiran Rao,38,Female,50087,59057,Technician,Good,557,3,Rejected
+Priya Gupta,48,Female,66546,73995,Accountant,No History,555,2,Rejected
+Kiran Das,44,Female,71481,73367,Accountant,Bad,742,3,Rejected
+Santosh Jain,55,Male,46099,54512,Sales Executive,Good,382,0,Rejected
+Divya Devi,41,Female,58931,61015,Consultant,Good,829,0,Approved
+Priya Patel,50,Female,65605,67902,Manager,No History,875,1,Rejected
+Divya Sharma,46,Male,42441,44710,Consultant,Bad,589,0,Rejected
+Rahul Joshi,30,Female,49762,51833,Sales Executive,No History,486,0,Rejected
+Pooja Pillai,35,Male,84845,91092,Software Engineer,Good,891,0,Approved
+Neha Mehta,49,Female,81089,85842,Consultant,No History,808,1,Rejected
+Amit Gupta,26,Female,66136,71493,Software Engineer,Bad,542,1,Rejected
+Rohit Babu,34,Female,78006,80832,Software Engineer,Good,876,1,Approved
+Rohit Patel,51,Female,88298,98137,Analyst,Good,372,0,Rejected
+Santosh Mehta,43,Male,63738,69709,Nurse,Good,759,3,Approved
+Pooja Reddy,26,Female,65005,68980,Technician,Bad,819,0,Rejected
+Kavya Reddy,39,Male,62771,66266,Sales Executive,No History,641,2,Rejected
+Priya Reddy,56,Male,69946,78598,Manager,No History,665,1,Rejected
+Asha Nair,44,Female,89042,92854,Technician,Good,734,2,Approved
+Manoj Joshi,22,Male,35482,37408,Sales Executive,Good,737,3,Rejected
+Rahul Kumar,46,Male,41547,47229,Manager,Bad,481,3,Rejected
+Santosh Yadav,37,Male,29405,31761,Clerk,No History,629,3,Rejected
+Rahul Sharma,57,Female,31188,35248,Sales Executive,Good,874,3,Rejected
+Divya Reddy,57,Female,75164,84866,Consultant,No History,327,0,Rejected
+Priya Iyer,49,Male,50165,57340,Sales Executive,No History,303,3,Rejected
+Santosh Kumar,40,Female,34000,43313,Consultant,Bad,625,1,Rejected
+Pooja Patel,50,Female,75000,82852,Accountant,No History,712,2,Rejected
+Priya Nair,40,Female,69609,72281,Technician,Bad,396,1,Rejected
+Sneha Iyer,32,Female,98577,106907,Accountant,No History,381,2,Rejected
+Rohit Jain,51,Female,53506,61139,Accountant,No History,401,0,Rejected
+Manoj Rao,27,Male,95886,99890,Consultant,No History,536,0,Rejected
+Priya Reddy,47,Female,50211,56665,Manager,Good,303,3,Rejected
+Priya Mehta,36,Male,66896,76837,Clerk,Bad,578,0,Rejected
+Amit Das,38,Female,48877,50950,Consultant,Bad,355,2,Rejected
+Sneha Yadav,55,Male,39617,48830,Teacher,No History,813,3,Rejected
+Priya Reddy,60,Female,40791,44898,Nurse,Good,476,0,Rejected
+Arjun Verma,24,Male,72688,80743,Accountant,Bad,701,3,Rejected
+Sneha Sharma,29,Female,37850,45530,Consultant,Good,545,3,Rejected
+Meera Sharma,36,Female,59785,69030,Manager,Good,807,3,Approved
+Manoj Babu,35,Female,37035,45678,Teacher,No History,753,3,Rejected
+Rohit Iyer,29,Female,66605,68813,Teacher,Bad,677,1,Rejected
+Arjun Singh,22,Male,43086,46830,Clerk,Bad,540,0,Rejected
+Asha Verma,35,Male,77081,79366,Analyst,Bad,604,3,Rejected
+Rohit Rao,44,Male,52342,61634,Accountant,Bad,818,0,Rejected
+Asha Verma,58,Male,53988,57824,Sales Executive,No History,452,3,Rejected
+Vikram Nair,50,Female,25564,30759,Technician,No History,689,2,Rejected
+Priya Jain,29,Male,35285,44827,Nurse,No History,691,0,Rejected
+Vikram Reddy,36,Male,25973,28954,Analyst,No History,864,3,Rejected
+Vikram Joshi,34,Male,59613,67885,Analyst,Bad,411,3,Rejected
+Santosh Sharma,25,Male,92653,95762,Manager,Good,445,0,Rejected
+Ravi Babu,33,Male,30910,32095,Software Engineer,Bad,363,1,Rejected
+Kiran Reddy,23,Male,37058,44435,Teacher,Good,470,1,Rejected
+Santosh Pillai,33,Male,47304,49992,Sales Executive,Good,678,0,Approved
+Anjali Das,36,Male,68057,71682,Nurse,Bad,680,1,Rejected
+Kavya Joshi,44,Male,96063,99494,Nurse,Good,893,2,Approved
+Priya Nair,49,Female,68752,74986,Nurse,Good,434,3,Rejected
+Anjali Reddy,53,Male,49457,55226,Consultant,Good,625,3,Rejected
+Ravi Patel,47,Female,57603,64149,Consultant,Good,727,1,Approved
+Asha Kumar,57,Male,41562,43727,Sales Executive,Bad,893,1,Rejected
+Ravi Joshi,55,Female,54042,55698,Analyst,Bad,524,0,Rejected
+Suresh Nair,36,Female,73328,75778,Manager,Bad,622,2,Rejected
+Santosh Devi,42,Male,51040,56938,Consultant,Good,565,1,Rejected
+Santosh Iyer,28,Female,51497,56309,Teacher,Good,625,1,Rejected
+Manoj Babu,32,Male,31396,34425,Analyst,Good,544,1,Rejected
+Pooja Mehta,58,Male,27502,29478,Nurse,No History,600,1,Rejected
+Arjun Das,56,Male,80766,87653,Manager,Good,704,1,Approved
+Kiran Iyer,39,Male,29976,34134,Teacher,Bad,538,0,Rejected
+Rohit Das,25,Female,21689,23065,Teacher,Bad,329,1,Rejected
+Divya Devi,39,Male,48695,50986,Consultant,No History,310,2,Rejected
+Rohit Pillai,40,Female,91347,98674,Analyst,Good,422,3,Rejected
+Kavya Gupta,48,Female,98711,104967,Teacher,Bad,467,2,Rejected
+Amit Kumar,45,Female,56459,59170,Teacher,No History,835,0,Rejected
+Manoj Devi,42,Male,46969,48132,Consultant,No History,769,1,Rejected
+Anjali Joshi,47,Male,47609,53913,Teacher,Good,764,2,Approved
+Rohit Yadav,43,Male,68047,76555,Software Engineer,Bad,384,2,Rejected
+Asha Iyer,48,Female,54899,57607,Technician,Good,840,3,Approved
+Rahul Kumar,27,Female,34589,43441,Technician,Bad,655,2,Rejected
+Pooja Das,26,Male,80544,84707,Clerk,Good,568,1,Rejected
+Rahul Das,37,Female,47668,49683,Software Engineer,No History,526,0,Rejected
+Suresh Verma,30,Female,31533,40206,Technician,Bad,776,0,Rejected
+Asha Reddy,44,Female,93966,100087,Manager,Bad,374,3,Rejected
+Vikram Rao,26,Female,83341,91853,Accountant,No History,760,0,Rejected
+Arjun Rao,23,Male,89504,97901,Consultant,No History,744,2,Rejected
+Neha Das,53,Male,76498,83523,Consultant,Good,595,2,Rejected
+Kiran Sharma,57,Male,59526,63236,Teacher,No History,715,0,Rejected
+Pooja Babu,38,Male,47886,54504,Manager,Good,862,1,Approved
+Rahul Reddy,44,Female,54716,63406,Technician,Bad,871,2,Rejected
+Divya Sharma,23,Male,40146,43945,Technician,Bad,356,3,Rejected
+Kavya Devi,27,Male,53997,55908,Clerk,Good,449,0,Rejected
+Rahul Pillai,30,Female,66627,70651,Analyst,Good,380,1,Rejected
+Anjali Jain,36,Male,74867,77982,Manager,Bad,763,3,Rejected
+Rohit Babu,27,Male,65542,74589,Analyst,Good,816,2,Approved
+Lakshmi Yadav,30,Female,59117,61799,Analyst,Good,542,0,Rejected
+Ravi Gupta,36,Female,51207,57774,Teacher,Bad,534,0,Rejected
+Amit Iyer,27,Male,38307,47811,Teacher,No History,468,2,Rejected
+Lakshmi Mehta,39,Female,32054,38566,Clerk,Bad,831,3,Rejected
+Lakshmi Yadav,44,Female,24824,32584,Consultant,Bad,768,3,Rejected
+Santosh Rao,47,Female,72114,77124,Software Engineer,Bad,420,3,Rejected
+Rahul Singh,47,Male,60228,61710,Analyst,No History,440,2,Rejected
+Divya Das,37,Female,82781,88701,Analyst,Good,484,3,Rejected
+Amit Gupta,60,Female,78238,88076,Nurse,Bad,359,1,Rejected
+Amit Reddy,48,Male,36758,41856,Teacher,No History,601,2,Rejected
+Lakshmi Gupta,50,Male,22192,24190,Sales Executive,No History,497,3,Rejected
+Pooja Pillai,27,Male,88057,97577,Clerk,No History,643,3,Rejected
+Manoj Patel,40,Female,61547,69722,Sales Executive,Bad,601,3,Rejected
+Kiran Verma,35,Male,50229,57563,Accountant,Bad,433,2,Rejected
+Vikram Rao,31,Male,81254,83554,Clerk,Good,653,1,Approved
+Lakshmi Devi,34,Female,42007,48693,Analyst,Good,318,3,Rejected
+Neha Kumar,32,Male,95182,96907,Consultant,No History,696,2,Rejected
+Rohit Kumar,31,Male,78538,81855,Sales Executive,No History,687,2,Rejected
+Rahul Sharma,40,Female,23576,30342,Nurse,Bad,481,3,Rejected
+Priya Yadav,27,Male,51085,58415,Technician,Good,396,2,Rejected
+Rohit Joshi,29,Female,45829,55773,Sales Executive,Bad,770,0,Rejected
+Vikram Yadav,34,Male,97613,106327,Clerk,Good,590,2,Rejected
+Manoj Verma,24,Female,65967,67678,Manager,No History,643,1,Rejected
+Santosh Verma,44,Female,62559,66253,Accountant,No History,389,2,Rejected
+Kavya Nair,37,Female,91723,97241,Manager,No History,433,3,Rejected
+Kavya Babu,27,Female,50927,56271,Sales Executive,Bad,535,2,Rejected
+Vikram Gupta,37,Female,80442,90347,Manager,Bad,695,2,Rejected
+Asha Joshi,48,Female,90948,92562,Software Engineer,Bad,652,2,Rejected
+Anjali Pillai,47,Male,72423,81207,Teacher,No History,787,2,Rejected
+Lakshmi Singh,34,Male,92408,94273,Analyst,Good,780,0,Approved
+Vikram Mehta,41,Male,62045,67536,Consultant,Bad,573,3,Rejected
+Santosh Nair,42,Male,80794,85672,Consultant,Bad,404,3,Rejected
+Sneha Verma,49,Female,81832,83178,Sales Executive,No History,318,3,Rejected
+Arjun Yadav,49,Female,44203,51232,Analyst,No History,592,0,Rejected
+Neha Pillai,44,Female,37885,39749,Teacher,No History,527,3,Rejected
+Divya Singh,42,Female,68917,77858,Teacher,No History,784,2,Rejected
+Kavya Yadav,22,Female,77677,86751,Manager,Bad,406,3,Rejected
+Rahul Kumar,52,Male,77592,82221,Manager,Good,501,2,Rejected
+Rahul Gupta,29,Female,49773,59519,Technician,No History,403,1,Rejected
+Lakshmi Devi,51,Male,77527,80711,Clerk,No History,616,0,Rejected
+Divya Patel,45,Female,68340,69811,Analyst,Bad,550,3,Rejected
+Arjun Gupta,36,Female,75287,83155,Nurse,No History,456,3,Rejected
+Manoj Sharma,44,Male,84062,88260,Sales Executive,Good,327,1,Rejected
+Ravi Singh,28,Male,34790,37984,Analyst,Bad,425,1,Rejected
+Rohit Nair,25,Female,26820,33620,Software Engineer,Good,881,1,Rejected
+Kiran Kumar,21,Female,90805,94875,Nurse,No History,623,0,Rejected
+Kiran Babu,45,Female,75537,80726,Sales Executive,Good,542,3,Rejected
+Rahul Patel,54,Male,44505,45960,Analyst,Good,337,1,Rejected
+Rahul Mehta,38,Female,79771,85131,Teacher,Good,606,1,Rejected
+Kavya Joshi,51,Male,96231,98514,Nurse,Bad,686,2,Rejected
+Santosh Singh,38,Female,46449,48860,Consultant,Bad,552,2,Rejected
+Suresh Jain,56,Male,58792,67187,Consultant,Bad,456,0,Rejected
+Amit Kumar,52,Female,82876,90333,Accountant,Good,426,2,Rejected
+Pooja Jain,37,Female,42751,52008,Teacher,Good,547,0,Rejected
+Divya Reddy,57,Male,45466,55330,Manager,No History,555,3,Rejected
+Ravi Jain,51,Male,96291,105026,Accountant,No History,811,1,Rejected
+Santosh Das,25,Male,41556,45827,Teacher,No History,454,3,Rejected
+Meera Yadav,32,Female,21652,28527,Nurse,No History,485,2,Rejected
+Priya Jain,41,Female,47107,52242,Accountant,No History,456,3,Rejected
+Asha Patel,48,Male,56591,62362,Accountant,Good,534,1,Rejected
+Anjali Sharma,22,Female,99211,102429,Clerk,No History,817,1,Rejected
+Divya Kumar,34,Male,32336,37254,Clerk,Good,634,3,Rejected
+Ravi Gupta,58,Female,81608,84083,Teacher,No History,678,2,Rejected
+Pooja Mehta,30,Female,69184,71590,Clerk,Good,360,2,Rejected
+Rohit Verma,41,Male,92559,95979,Teacher,Good,356,3,Rejected
+Amit Babu,31,Male,68205,75181,Clerk,Bad,622,2,Rejected
+Rahul Sharma,60,Male,67927,70442,Software Engineer,No History,352,2,Rejected
+Asha Sharma,47,Female,70194,75016,Nurse,Good,753,3,Approved
+Pooja Verma,33,Male,66098,70429,Consultant,Good,729,1,Approved
+Arjun Verma,45,Female,87566,92608,Manager,Bad,451,2,Rejected
+Suresh Yadav,58,Female,31116,32164,Consultant,Good,624,0,Rejected
+Meera Das,26,Male,94731,98743,Sales Executive,No History,556,1,Rejected
+Rahul Nair,50,Female,65168,70890,Manager,Good,319,1,Rejected
+Kavya Jain,51,Female,81219,82319,Analyst,No History,650,2,Rejected
+Anjali Pillai,24,Female,92150,97897,Nurse,Bad,864,3,Rejected
+Rahul Devi,40,Male,94877,99273,Sales Executive,No History,621,1,Rejected
+Priya Devi,28,Male,56773,66710,Accountant,No History,617,2,Rejected
+Sneha Nair,53,Male,71288,81029,Consultant,Good,376,3,Rejected
+Neha Iyer,37,Female,97297,106147,Technician,No History,543,1,Rejected
+Divya Verma,40,Male,43735,51506,Manager,Good,581,0,Rejected
+Kavya Mehta,56,Male,29125,34741,Nurse,Good,304,0,Rejected
+Anjali Devi,36,Male,97805,99353,Accountant,Good,876,2,Approved
+Manoj Iyer,42,Male,29052,35171,Technician,No History,405,3,Rejected
+Suresh Rao,44,Male,75641,84493,Analyst,No History,313,0,Rejected
+Ravi Patel,47,Female,93753,95903,Sales Executive,No History,636,0,Rejected
+Asha Sharma,48,Female,85775,94734,Software Engineer,Good,742,1,Approved
+Vikram Iyer,51,Male,98255,107612,Nurse,Bad,482,1,Rejected
+Meera Singh,57,Female,57748,67695,Manager,Good,765,1,Approved
+Vikram Reddy,39,Male,38999,41546,Sales Executive,Bad,751,3,Rejected
+Amit Iyer,54,Male,77552,86599,Clerk,Good,375,2,Rejected
+Neha Yadav,35,Female,55076,61480,Manager,Good,331,2,Rejected
+Anjali Mehta,27,Male,91040,96056,Nurse,Bad,523,1,Rejected
+Rahul Singh,39,Female,99132,106727,Analyst,Bad,581,3,Rejected
+Meera Das,40,Male,27058,28410,Manager,Bad,671,1,Rejected
+Sneha Patel,55,Female,76034,79220,Clerk,Good,325,0,Rejected
+Ravi Kumar,44,Female,91471,100667,Clerk,Good,900,2,Approved
+Asha Verma,39,Male,22561,27847,Analyst,Bad,786,0,Rejected
+Manoj Jain,25,Male,73280,79547,Consultant,Bad,458,0,Rejected
+Santosh Joshi,30,Male,75152,78117,Analyst,Good,500,3,Rejected
+Lakshmi Kumar,57,Male,90096,96958,Analyst,No History,860,0,Rejected
+Santosh Yadav,25,Male,45883,47128,Technician,Good,792,1,Approved
+Kavya Patel,31,Female,42267,46056,Software Engineer,No History,741,2,Rejected
+Lakshmi Mehta,27,Female,61841,71171,Accountant,Good,516,2,Rejected
+Priya Joshi,48,Male,56901,65228,Technician,Good,609,2,Rejected
+Rahul Pillai,46,Male,70112,79476,Consultant,Good,539,1,Rejected
+Rahul Das,50,Female,85529,87230,Manager,Bad,681,1,Rejected
+Asha Babu,44,Male,82050,87690,Sales Executive,No History,302,2,Rejected
+Anjali Jain,58,Male,33307,38086,Nurse,No History,757,0,Rejected
+Suresh Devi,57,Female,35615,42569,Clerk,Good,601,3,Rejected
+Kavya Pillai,30,Female,86717,89857,Teacher,Bad,861,0,Rejected
+Santosh Reddy,23,Male,52921,58150,Consultant,No History,691,1,Rejected
+Vikram Sharma,30,Female,55901,65093,Nurse,No History,842,3,Rejected
+Lakshmi Rao,35,Female,55675,65102,Nurse,Good,539,1,Rejected
+Pooja Mehta,45,Male,65974,75626,Analyst,No History,643,1,Rejected
+Amit Sharma,52,Female,60746,63812,Technician,Good,336,1,Rejected
+Kiran Rao,39,Female,85799,91012,Sales Executive,Bad,762,2,Rejected
+Suresh Kumar,59,Female,61005,64752,Consultant,Bad,725,2,Rejected
+Divya Patel,25,Female,78684,83150,Teacher,No History,541,2,Rejected
+Manoj Das,26,Female,59267,66022,Analyst,No History,314,1,Rejected
+Rohit Singh,36,Male,55656,58969,Technician,Bad,768,1,Rejected
+Ravi Verma,22,Male,76220,79273,Manager,Bad,571,1,Rejected
+Pooja Patel,38,Female,44850,52470,Sales Executive,No History,860,3,Rejected
+Rohit Patel,33,Male,60579,61906,Consultant,No History,327,0,Rejected
+Sneha Pillai,21,Male,53662,59069,Accountant,No History,548,3,Rejected
+Santosh Nair,24,Female,47341,51527,Consultant,Bad,838,1,Rejected
+Rohit Singh,55,Male,83952,92093,Manager,Bad,328,1,Rejected
+Manoj Sharma,25,Male,80935,84020,Teacher,No History,797,2,Rejected
+Kiran Yadav,53,Female,23927,27465,Software Engineer,Bad,720,2,Rejected
+Ravi Devi,28,Male,90635,95148,Teacher,Good,581,3,Rejected
+Priya Mehta,35,Male,47377,55697,Clerk,No History,661,2,Rejected
+Manoj Sharma,53,Female,84445,88222,Technician,Good,399,1,Rejected
+Ravi Reddy,47,Male,93098,94953,Teacher,Bad,460,1,Rejected
+Sneha Das,39,Female,53967,60517,Consultant,Good,382,2,Rejected
+Priya Rao,40,Female,96260,103842,Nurse,No History,805,0,Rejected
+Arjun Mehta,47,Male,55708,57384,Sales Executive,No History,885,1,Rejected
+Divya Yadav,52,Female,83033,86002,Accountant,No History,367,0,Rejected
+Lakshmi Joshi,45,Female,48431,49684,Software Engineer,No History,646,0,Rejected
+Vikram Rao,33,Male,37370,46165,Technician,Bad,720,2,Rejected
+Amit Verma,59,Male,76849,86695,Analyst,No History,346,0,Rejected
+Divya Joshi,53,Male,84743,87405,Technician,No History,602,2,Rejected
+Rohit Singh,21,Male,22904,26419,Nurse,No History,849,0,Rejected
+Meera Nair,38,Female,22891,31501,Clerk,Good,518,0,Rejected
+Sneha Das,56,Male,36576,46541,Teacher,Good,534,0,Rejected
+Manoj Nair,48,Male,54491,62291,Nurse,Good,492,2,Rejected
+Santosh Devi,28,Female,53980,62131,Analyst,Bad,672,3,Rejected
+Santosh Singh,24,Male,98496,101314,Analyst,Good,411,3,Rejected
+Rohit Nair,33,Male,59791,67661,Technician,No History,599,1,Rejected
+Neha Devi,27,Female,68212,73036,Software Engineer,Good,408,2,Rejected
+Rohit Sharma,50,Male,73942,82736,Accountant,No History,834,2,Rejected
+Suresh Nair,37,Male,55759,63442,Software Engineer,No History,894,0,Rejected
+Arjun Babu,22,Female,79782,81192,Accountant,Bad,604,1,Rejected
+Arjun Joshi,31,Male,82823,91539,Consultant,No History,665,3,Rejected
+Kiran Joshi,41,Male,83960,88668,Manager,Bad,694,0,Rejected
+Kavya Reddy,56,Male,45322,52376,Nurse,No History,745,0,Rejected
+Meera Sharma,45,Female,24054,26503,Nurse,No History,786,2,Rejected
+Asha Iyer,55,Female,94378,100255,Sales Executive,Bad,313,1,Rejected
+Pooja Babu,50,Male,39535,49304,Software Engineer,Bad,532,2,Rejected
+Arjun Devi,44,Female,83000,86827,Technician,No History,720,2,Rejected
+Amit Das,53,Male,68048,75652,Technician,No History,594,2,Rejected
+Meera Gupta,38,Male,67388,75090,Software Engineer,Bad,407,0,Rejected
+Santosh Singh,41,Female,75106,81877,Technician,Bad,498,1,Rejected
+Priya Joshi,35,Male,78757,85571,Clerk,No History,479,1,Rejected
+Kavya Joshi,48,Female,86322,87529,Analyst,Good,402,0,Rejected
+Sneha Joshi,48,Female,39700,43049,Nurse,Bad,490,3,Rejected
+Amit Kumar,29,Male,32638,35731,Consultant,Good,617,2,Rejected
+Kavya Singh,41,Male,66085,70364,Clerk,No History,519,3,Rejected
+Lakshmi Rao,31,Male,54047,61041,Software Engineer,Good,737,0,Approved
+Rahul Patel,29,Female,46720,51673,Technician,Good,428,1,Rejected
+Divya Pillai,54,Female,76553,82936,Manager,No History,794,3,Rejected
+Asha Babu,43,Male,86374,93794,Software Engineer,No History,812,1,Rejected
+Lakshmi Singh,54,Male,89046,98663,Sales Executive,No History,732,0,Rejected
+Rohit Devi,22,Female,42430,50947,Manager,Good,575,3,Rejected
+Kavya Patel,38,Male,81981,90939,Nurse,Good,507,3,Rejected
+Manoj Singh,47,Female,77680,84306,Sales Executive,Good,339,3,Rejected
+Kiran Das,55,Male,91154,97333,Consultant,Bad,877,2,Rejected
+Asha Singh,38,Female,86341,93422,Teacher,Good,586,2,Rejected
+Lakshmi Nair,60,Female,77535,84334,Consultant,No History,496,1,Rejected
+Lakshmi Singh,40,Male,85854,89165,Consultant,No History,455,0,Rejected
+Rohit Das,43,Female,32867,39393,Manager,No History,709,1,Rejected
+Sneha Rao,21,Male,57724,64408,Teacher,Bad,500,0,Rejected
+Pooja Patel,22,Male,72148,75121,Manager,Bad,822,2,Rejected
+Kavya Jain,24,Male,59044,66918,Consultant,Good,568,3,Rejected
+Amit Sharma,24,Male,92500,96055,Nurse,No History,842,0,Rejected
+Ravi Patel,30,Male,23564,33227,Nurse,Bad,573,3,Rejected
+Lakshmi Pillai,58,Female,67599,71823,Consultant,No History,466,0,Rejected
+Lakshmi Singh,32,Female,72508,73956,Nurse,Bad,618,2,Rejected
+Sneha Yadav,58,Male,99958,102201,Clerk,No History,407,1,Rejected
+Meera Nair,47,Male,42719,51296,Teacher,Good,370,2,Rejected
+Santosh Pillai,45,Male,58520,61457,Teacher,Bad,685,0,Rejected
+Anjali Kumar,42,Female,34426,38568,Consultant,Good,474,1,Rejected
+Priya Pillai,28,Male,57287,63083,Sales Executive,No History,329,0,Rejected
+Rohit Das,25,Female,92960,94451,Technician,No History,309,2,Rejected
+Divya Reddy,50,Male,57228,59630,Sales Executive,No History,834,2,Rejected
+Neha Iyer,39,Female,88005,95918,Accountant,Bad,759,2,Rejected
+Pooja Das,45,Female,70086,78217,Manager,No History,887,2,Rejected
+Sneha Jain,24,Female,84585,85992,Sales Executive,Good,885,3,Approved
+Priya Sharma,31,Female,34093,39895,Accountant,No History,831,0,Rejected
+Suresh Mehta,29,Female,78784,82704,Clerk,No History,705,3,Rejected
+Anjali Yadav,60,Female,27712,30997,Nurse,Good,884,3,Rejected
+Ravi Verma,44,Male,88418,97481,Technician,Bad,595,0,Rejected
+Asha Jain,39,Male,32161,35842,Clerk,Good,523,1,Rejected
+Asha Yadav,45,Female,37207,39887,Consultant,No History,827,1,Rejected
+Suresh Mehta,36,Male,57507,64343,Consultant,No History,822,1,Rejected
+Manoj Patel,58,Female,47621,49768,Nurse,Good,704,2,Approved
+Divya Singh,59,Male,84192,90374,Sales Executive,Good,384,2,Rejected
+Amit Reddy,49,Male,69885,78182,Analyst,No History,327,3,Rejected
+Ravi Nair,52,Female,97386,100902,Technician,Good,623,2,Rejected
+Meera Joshi,23,Female,96641,104115,Nurse,Bad,679,1,Rejected
+Asha Babu,53,Male,31200,34001,Technician,Bad,695,2,Rejected
+Asha Sharma,49,Male,58876,67330,Clerk,Bad,400,1,Rejected
+Priya Singh,52,Female,54654,55764,Nurse,Good,638,1,Rejected
+Ravi Sharma,40,Female,53067,55954,Technician,Good,378,0,Rejected
+Santosh Reddy,57,Male,88293,95469,Accountant,Good,331,1,Rejected
+Meera Joshi,43,Male,24075,25575,Manager,Good,451,3,Rejected
+Kavya Das,42,Male,32167,39152,Clerk,Bad,592,1,Rejected
+Santosh Das,37,Female,72738,74578,Consultant,Good,797,0,Approved
+Ravi Devi,60,Female,32031,36379,Manager,Bad,863,1,Rejected
+Pooja Jain,31,Male,51545,58966,Manager,No History,381,1,Rejected
+Rahul Babu,59,Male,47219,51454,Sales Executive,No History,626,1,Rejected
+Suresh Nair,58,Female,38094,43654,Software Engineer,No History,790,2,Rejected
+Rohit Verma,37,Male,33271,38309,Sales Executive,Bad,648,0,Rejected
+Manoj Devi,30,Female,91057,98844,Software Engineer,Bad,685,0,Rejected
+Amit Yadav,40,Female,74624,81222,Analyst,Bad,553,1,Rejected
+Vikram Iyer,41,Female,99906,103351,Technician,Good,422,3,Rejected
+Rohit Iyer,35,Female,52098,53871,Manager,Good,790,3,Approved
+Santosh Patel,33,Male,61281,69605,Analyst,No History,608,2,Rejected
+Arjun Yadav,22,Male,61054,69239,Analyst,Good,407,0,Rejected
+Kiran Pillai,34,Female,62803,66147,Clerk,Bad,383,0,Rejected
+Suresh Pillai,42,Male,49230,56216,Technician,Good,661,0,Approved
+Manoj Mehta,47,Female,60119,61656,Accountant,No History,410,0,Rejected
+Lakshmi Das,25,Male,67631,73309,Teacher,Bad,820,3,Rejected
+Ravi Das,43,Female,89659,95307,Software Engineer,No History,517,3,Rejected
+Sneha Das,45,Female,82338,89775,Technician,Bad,358,2,Rejected
+Kiran Yadav,41,Female,94399,95469,Teacher,Good,499,1,Rejected
+Arjun Devi,46,Male,62183,70831,Nurse,Bad,534,3,Rejected
+Neha Mehta,46,Male,74310,83530,Software Engineer,Bad,634,2,Rejected
+Lakshmi Yadav,37,Female,93109,96159,Manager,Bad,456,1,Rejected
+Anjali Gupta,27,Male,31011,37883,Accountant,Good,378,3,Rejected
+Arjun Devi,43,Male,56847,66084,Software Engineer,No History,573,3,Rejected
+Ravi Das,45,Male,93409,101804,Accountant,No History,658,3,Rejected
+Amit Yadav,52,Female,96215,103149,Accountant,No History,511,2,Rejected
+Amit Rao,43,Male,88332,91945,Analyst,Good,308,0,Rejected
+Santosh Patel,60,Male,94962,100019,Clerk,Bad,784,2,Rejected
+Meera Joshi,32,Male,99150,103974,Analyst,Good,464,0,Rejected
+Anjali Jain,39,Female,26315,29779,Software Engineer,Good,674,2,Rejected
+Ravi Patel,45,Female,36266,41114,Consultant,Bad,575,0,Rejected
+Suresh Devi,41,Male,22538,25508,Nurse,No History,725,0,Rejected
+Priya Singh,57,Female,60870,69894,Accountant,Good,790,1,Approved
+Ravi Iyer,43,Male,56318,62702,Clerk,Bad,510,3,Rejected
+Asha Sharma,54,Male,71172,80584,Sales Executive,No History,306,2,Rejected
+Rohit Devi,53,Male,55257,57601,Clerk,Bad,662,1,Rejected
+Asha Jain,33,Female,56459,58057,Technician,Bad,338,2,Rejected
+Divya Gupta,28,Female,94445,100484,Teacher,Bad,653,3,Rejected
+Amit Jain,31,Male,41291,42382,Technician,No History,313,3,Rejected
+Pooja Sharma,55,Female,66011,74941,Nurse,Bad,825,1,Rejected
+Meera Sharma,59,Female,73958,75252,Manager,Bad,620,1,Rejected
+Neha Babu,33,Female,53607,54813,Software Engineer,Bad,553,0,Rejected
+Asha Sharma,52,Female,98965,101232,Sales Executive,No History,630,3,Rejected
+Arjun Joshi,47,Female,50888,52326,Accountant,Bad,749,3,Rejected
+Suresh Reddy,58,Male,26075,28432,Clerk,No History,749,0,Rejected
+Arjun Jain,58,Male,27656,34997,Nurse,No History,471,0,Rejected
+Sneha Singh,45,Female,73167,77595,Teacher,Bad,427,0,Rejected
+Anjali Jain,50,Female,84047,87332,Sales Executive,Bad,738,0,Rejected
+Meera Singh,52,Female,93974,102349,Analyst,No History,355,0,Rejected
+Suresh Nair,59,Male,54105,56357,Clerk,Good,525,0,Rejected
+Manoj Kumar,27,Female,98506,106092,Analyst,Good,530,2,Rejected
+Pooja Rao,48,Female,92509,101324,Manager,Good,457,2,Rejected
+Kiran Singh,30,Female,21805,29655,Sales Executive,Bad,885,3,Rejected
+Ravi Singh,52,Female,35401,41559,Nurse,Bad,795,0,Rejected
+Neha Patel,38,Female,86576,91298,Nurse,Bad,849,0,Rejected
+Pooja Das,58,Male,40562,47508,Technician,Bad,837,1,Rejected
+Asha Gupta,54,Male,52990,59412,Analyst,Good,792,1,Approved
+Kiran Pillai,54,Female,28943,33477,Software Engineer,Bad,334,2,Rejected
+Arjun Sharma,36,Male,49672,50845,Sales Executive,Bad,819,2,Rejected
+Kavya Yadav,23,Male,84060,88301,Accountant,Bad,863,2,Rejected
+Rohit Gupta,42,Male,76860,84952,Clerk,No History,507,1,Rejected
+Pooja Kumar,24,Female,70523,72850,Analyst,Good,505,0,Rejected
+Lakshmi Joshi,23,Male,20776,25495,Consultant,Good,756,1,Rejected
+Pooja Mehta,26,Female,62740,65328,Clerk,No History,429,0,Rejected
+Rohit Reddy,56,Male,30031,35142,Consultant,Bad,539,3,Rejected
+Sneha Devi,36,Female,92626,101578,Nurse,Good,774,3,Approved
+Sneha Verma,52,Female,69296,75713,Software Engineer,Bad,729,2,Rejected
+Kavya Rao,40,Male,26447,29401,Consultant,No History,866,3,Rejected
+Suresh Devi,23,Male,43477,47760,Technician,No History,751,2,Rejected
+Ravi Mehta,57,Female,42328,47364,Consultant,No History,778,1,Rejected
+Meera Gupta,45,Male,53041,61199,Consultant,Good,542,2,Rejected
+Santosh Joshi,35,Female,75457,79023,Accountant,Good,356,3,Rejected
+Amit Iyer,39,Male,26162,28991,Accountant,Bad,430,0,Rejected
+Santosh Patel,56,Female,60907,66236,Software Engineer,Good,731,3,Approved
+Anjali Singh,58,Female,25108,32414,Clerk,No History,529,3,Rejected
+Rohit Verma,44,Female,44882,48608,Teacher,No History,666,3,Rejected
+Arjun Pillai,29,Female,22207,28419,Software Engineer,Good,763,1,Rejected
+Asha Gupta,53,Female,57070,66475,Software Engineer,Good,707,0,Approved
+Vikram Nair,57,Male,63367,70957,Clerk,No History,871,3,Rejected
+Asha Babu,29,Male,91467,96516,Analyst,No History,568,2,Rejected
+Rohit Kumar,49,Female,88212,93532,Analyst,Good,391,0,Rejected
+Neha Singh,58,Female,42884,45870,Accountant,No History,467,2,Rejected
+Vikram Gupta,29,Female,95309,97346,Teacher,Bad,475,3,Rejected
+Anjali Pillai,59,Female,77278,85304,Nurse,No History,702,0,Rejected
+Rohit Nair,25,Male,27776,37110,Nurse,No History,810,1,Rejected
+Lakshmi Joshi,58,Female,47435,49332,Accountant,Bad,785,0,Rejected
+Kiran Joshi,37,Male,68403,78355,Clerk,Bad,365,2,Rejected
+Santosh Gupta,57,Male,54398,55417,Sales Executive,No History,460,1,Rejected
+Rahul Singh,28,Female,37876,39470,Analyst,No History,402,1,Rejected
+Lakshmi Yadav,35,Female,33819,35735,Accountant,Bad,663,2,Rejected
+Amit Gupta,58,Male,70678,79301,Technician,Good,647,0,Rejected
+Lakshmi Das,21,Female,65159,70809,Technician,Good,806,1,Approved
+Santosh Pillai,29,Male,83600,92399,Teacher,Good,396,1,Rejected
+Anjali Iyer,38,Female,95205,103240,Accountant,Good,743,3,Approved
+Ravi Das,50,Male,53600,56369,Consultant,No History,474,2,Rejected
+Santosh Verma,45,Male,21852,22871,Nurse,No History,535,2,Rejected
+Neha Devi,34,Female,98728,101631,Sales Executive,Good,722,2,Approved
+Meera Das,59,Female,30067,35390,Technician,Bad,674,0,Rejected
+Pooja Devi,28,Female,45784,48271,Manager,Good,716,0,Approved
+Divya Verma,56,Male,67941,71838,Nurse,Good,833,1,Approved
+Kiran Nair,50,Male,45986,52144,Analyst,Bad,795,3,Rejected
+Sneha Rao,56,Male,29323,33978,Clerk,Good,671,2,Rejected
+Rohit Singh,26,Male,35051,40740,Manager,Bad,484,0,Rejected
+Pooja Yadav,49,Male,48946,56358,Teacher,Bad,443,2,Rejected
+Vikram Sharma,24,Male,65392,74021,Consultant,Good,637,0,Rejected
+Suresh Kumar,25,Male,38099,42013,Clerk,Good,578,2,Rejected
+Suresh Kumar,33,Female,24453,30003,Teacher,Bad,864,0,Rejected
+Amit Patel,46,Male,56253,63180,Nurse,Bad,540,2,Rejected
+Kavya Devi,31,Male,53016,56456,Accountant,Bad,731,2,Rejected
+Neha Gupta,42,Female,48976,52131,Manager,Good,549,0,Rejected
+Meera Iyer,51,Male,47655,49358,Nurse,Good,682,3,Approved
+Kavya Mehta,51,Female,81827,83054,Consultant,Good,530,1,Rejected
+Asha Mehta,53,Female,83288,92604,Manager,Bad,457,3,Rejected
+Ravi Gupta,60,Female,23696,32128,Clerk,No History,457,1,Rejected
+Priya Patel,28,Male,54076,60156,Teacher,Bad,709,1,Rejected
+Neha Kumar,57,Male,86575,92957,Clerk,Bad,874,0,Rejected
+Rohit Verma,60,Male,70444,78816,Teacher,Bad,706,2,Rejected
+Amit Nair,35,Male,36631,40432,Accountant,Bad,596,3,Rejected
+Divya Nair,34,Male,94801,99431,Manager,Bad,670,1,Rejected
+Santosh Joshi,36,Female,31383,37833,Manager,Good,411,3,Rejected
+Kavya Kumar,33,Male,29463,35627,Sales Executive,Good,360,2,Rejected
+Priya Jain,56,Female,92014,97836,Manager,No History,640,2,Rejected
+Neha Patel,45,Male,60253,68702,Software Engineer,Good,697,1,Approved
+Vikram Mehta,38,Female,55013,59088,Analyst,Bad,427,3,Rejected
+Priya Yadav,35,Male,94345,99200,Technician,Good,604,0,Rejected
+Manoj Pillai,52,Male,39135,48211,Teacher,Good,372,0,Rejected
+Kiran Gupta,49,Male,79151,82443,Technician,Good,587,1,Rejected
+Vikram Reddy,38,Male,55033,56512,Manager,Good,735,1,Approved
+Lakshmi Singh,27,Male,29542,34329,Software Engineer,Good,358,1,Rejected
+Meera Das,55,Male,59693,61632,Teacher,Bad,723,0,Rejected
+Arjun Kumar,44,Female,72297,82137,Sales Executive,No History,598,2,Rejected
+Rohit Mehta,27,Male,26870,30694,Teacher,Bad,412,3,Rejected
+Ravi Devi,26,Male,59536,63283,Consultant,Bad,763,2,Rejected
+Sneha Patel,51,Male,81905,89179,Accountant,No History,774,0,Rejected
+Santosh Babu,52,Male,84920,87811,Manager,Good,706,3,Approved
+Sneha Rao,53,Female,73602,80963,Teacher,Bad,804,1,Rejected
+Lakshmi Joshi,58,Female,63840,65499,Software Engineer,Bad,699,0,Rejected
+Priya Sharma,54,Male,74256,82264,Analyst,No History,880,2,Rejected
+Rahul Singh,34,Female,95990,105556,Analyst,Bad,548,2,Rejected
+Manoj Patel,55,Female,58355,66152,Nurse,Bad,367,0,Rejected
+Lakshmi Babu,30,Female,74447,77553,Nurse,Good,592,0,Rejected
+Sneha Pillai,34,Female,37684,39459,Manager,Good,651,3,Rejected
+Vikram Pillai,46,Male,69563,72890,Clerk,Good,621,0,Rejected
+Ravi Joshi,21,Male,36387,37653,Clerk,Bad,822,0,Rejected
+Meera Nair,54,Male,25008,28908,Teacher,Bad,343,0,Rejected
+Arjun Devi,36,Male,76510,82117,Manager,No History,846,0,Rejected
+Divya Sharma,58,Female,96701,97975,Sales Executive,No History,873,1,Rejected
+Kavya Joshi,59,Male,71529,76191,Consultant,No History,379,2,Rejected
+Divya Babu,43,Male,22931,32399,Analyst,No History,371,3,Rejected
+Asha Mehta,44,Female,80503,84661,Software Engineer,Bad,353,1,Rejected
+Priya Nair,60,Female,67423,69276,Accountant,Good,527,0,Rejected
+Rohit Kumar,23,Female,91105,95594,Accountant,Bad,460,3,Rejected
+Sneha Joshi,58,Female,57394,58746,Clerk,No History,830,3,Rejected
+Ravi Singh,44,Male,22683,25773,Clerk,No History,399,0,Rejected
+Arjun Gupta,49,Female,76031,81037,Analyst,Good,579,0,Rejected
+Asha Nair,38,Female,31163,35508,Software Engineer,Good,545,0,Rejected
+Asha Nair,38,Male,22815,25202,Teacher,Good,327,2,Rejected
+Neha Verma,44,Female,92515,93545,Nurse,Good,470,2,Rejected
+Priya Das,41,Male,59874,66285,Accountant,Bad,730,2,Rejected
+Meera Singh,27,Female,58341,68125,Manager,No History,375,3,Rejected
+Kiran Gupta,49,Male,75302,82610,Accountant,No History,566,0,Rejected
+Meera Joshi,31,Female,33409,37763,Nurse,No History,354,0,Rejected
+Asha Das,35,Male,21867,31744,Clerk,Bad,739,0,Rejected
+Ravi Reddy,57,Male,38336,40475,Technician,No History,389,2,Rejected
+Divya Rao,29,Female,54080,56732,Accountant,No History,449,3,Rejected
+Rohit Patel,25,Male,77313,81588,Clerk,Good,475,2,Rejected
+Ravi Mehta,29,Female,53361,61330,Analyst,No History,775,3,Rejected
+Asha Das,33,Female,89004,97468,Manager,No History,469,2,Rejected
+Asha Yadav,38,Male,27721,30926,Teacher,Good,634,2,Rejected
+Priya Jain,21,Male,66616,72676,Accountant,Good,731,2,Approved
+Anjali Pillai,33,Male,78759,80631,Accountant,No History,534,0,Rejected
+Sneha Iyer,59,Female,52123,56602,Manager,Bad,516,3,Rejected
+Asha Reddy,55,Male,49753,54271,Nurse,Bad,883,2,Rejected
+Ravi Iyer,49,Female,50424,57017,Technician,No History,755,0,Rejected
+Neha Reddy,49,Female,83518,92959,Technician,Good,670,0,Approved
+Anjali Yadav,57,Male,48915,52336,Nurse,Bad,613,3,Rejected
+Meera Das,32,Male,92655,101931,Clerk,Good,424,2,Rejected
+Kiran Verma,55,Male,53297,56830,Clerk,Bad,791,3,Rejected
+Priya Babu,47,Female,31649,36216,Analyst,Bad,370,0,Rejected
+Ravi Iyer,33,Male,37771,45237,Software Engineer,Good,559,2,Rejected
+Neha Nair,31,Male,73874,83341,Manager,No History,792,1,Rejected
+Amit Jain,38,Male,23209,32759,Accountant,No History,882,0,Rejected
+Rohit Reddy,53,Male,32328,34790,Teacher,Good,479,2,Rejected
+Pooja Joshi,30,Male,47787,49556,Technician,No History,408,0,Rejected
+Anjali Gupta,27,Male,43297,51892,Consultant,No History,521,0,Rejected
+Pooja Babu,30,Female,57396,67345,Manager,Good,875,0,Approved
+Rohit Joshi,32,Male,81164,89361,Consultant,No History,482,2,Rejected
+Santosh Kumar,41,Female,69446,78185,Software Engineer,No History,453,0,Rejected
+Amit Reddy,36,Female,28603,32427,Manager,Good,492,3,Rejected
+Kiran Pillai,27,Female,23963,32544,Manager,Bad,535,3,Rejected
+Ravi Jain,36,Male,75598,83552,Accountant,Good,464,3,Rejected
+Neha Joshi,35,Male,86167,90540,Technician,Bad,307,0,Rejected
+Asha Jain,54,Female,59401,67302,Software Engineer,No History,793,0,Rejected
+Suresh Singh,53,Male,34740,44234,Manager,No History,490,2,Rejected
+Lakshmi Yadav,27,Female,29048,31034,Nurse,No History,511,2,Rejected
+Kiran Mehta,58,Male,82734,86819,Software Engineer,No History,752,1,Rejected
+Priya Das,49,Male,75032,83449,Technician,Good,765,1,Approved
+Rohit Singh,41,Male,35683,41356,Software Engineer,Good,706,2,Rejected
+Kavya Sharma,60,Female,37289,42589,Analyst,Good,610,1,Rejected
+Divya Reddy,50,Male,20848,28584,Accountant,Good,684,1,Rejected
+Ravi Joshi,21,Male,38117,44597,Clerk,Good,692,3,Rejected
+Rahul Reddy,33,Female,47604,57004,Technician,Good,466,2,Rejected
+Santosh Kumar,22,Male,92829,95383,Technician,Bad,341,2,Rejected
+Kiran Babu,57,Male,44715,48764,Manager,Good,656,3,Approved
+Divya Devi,42,Male,88361,94561,Consultant,Bad,559,1,Rejected
+Vikram Patel,53,Male,62573,63875,Software Engineer,No History,860,2,Rejected
+Manoj Yadav,45,Female,38222,44414,Sales Executive,No History,839,1,Rejected
+Meera Joshi,40,Male,70095,79595,Nurse,No History,593,2,Rejected
+Divya Pillai,53,Male,83230,91885,Analyst,Bad,374,3,Rejected
+Sneha Yadav,39,Male,66824,68668,Manager,Bad,521,3,Rejected
+Santosh Das,24,Male,68011,73089,Accountant,Good,470,0,Rejected
+Arjun Yadav,44,Male,95575,100073,Manager,No History,447,3,Rejected
+Vikram Pillai,51,Male,60628,69241,Analyst,No History,509,3,Rejected
+Meera Reddy,41,Female,43497,50633,Teacher,No History,599,3,Rejected
+Neha Jain,43,Male,25727,33916,Software Engineer,No History,542,1,Rejected
+Kiran Verma,47,Male,57291,66407,Analyst,Good,599,2,Rejected
+Priya Gupta,23,Male,67572,76488,Software Engineer,Bad,328,0,Rejected
+Meera Joshi,30,Female,61907,65018,Software Engineer,Good,633,2,Rejected
+Rahul Devi,40,Male,41522,42548,Manager,Bad,418,0,Rejected
+Manoj Joshi,46,Female,75077,83147,Consultant,Bad,695,2,Rejected
+Ravi Reddy,37,Female,57754,60494,Technician,No History,758,1,Rejected
+Kavya Mehta,24,Female,83176,91859,Manager,Bad,330,1,Rejected
+Pooja Singh,44,Male,49107,51187,Nurse,No History,647,3,Rejected
+Anjali Kumar,46,Male,60516,66472,Sales Executive,No History,692,2,Rejected
+Divya Rao,50,Female,54999,59405,Teacher,Good,498,2,Rejected
+Asha Mehta,28,Female,48566,57052,Technician,Bad,828,3,Rejected
+Sneha Das,41,Male,95255,104639,Accountant,Good,665,1,Approved
+Vikram Das,39,Male,96353,103688,Consultant,No History,632,1,Rejected
+Rahul Mehta,60,Male,81576,88620,Analyst,No History,850,0,Rejected
+Suresh Das,47,Female,93621,97049,Teacher,No History,556,3,Rejected
+Neha Gupta,29,Male,95662,102163,Technician,Bad,635,3,Rejected
+Santosh Joshi,34,Male,61963,68368,Sales Executive,No History,367,3,Rejected
+Arjun Pillai,55,Male,35249,36955,Technician,No History,377,2,Rejected
+Kavya Pillai,31,Female,36118,40076,Teacher,Good,506,2,Rejected
+Ravi Gupta,56,Female,39689,44005,Sales Executive,Good,382,2,Rejected
+Pooja Rao,45,Male,73872,76719,Nurse,Bad,722,1,Rejected
+Arjun Reddy,42,Female,52449,53802,Sales Executive,No History,642,0,Rejected
+Ravi Kumar,48,Female,43027,46783,Accountant,No History,780,1,Rejected
+Arjun Gupta,32,Male,93699,98083,Nurse,No History,695,3,Rejected
+Santosh Pillai,45,Female,88868,92777,Consultant,No History,532,1,Rejected
+Pooja Joshi,31,Male,79954,85037,Manager,Bad,611,2,Rejected
+Rohit Verma,39,Female,28446,31950,Technician,No History,401,0,Rejected
+Vikram Verma,43,Female,50816,52612,Nurse,Good,809,2,Approved
+Manoj Das,59,Female,76914,80537,Sales Executive,Bad,726,1,Rejected
+Divya Babu,21,Male,46208,55560,Software Engineer,Good,444,3,Rejected
+Kiran Pillai,22,Female,70350,78796,Manager,Bad,413,2,Rejected
+Sneha Kumar,60,Male,75726,78560,Clerk,Bad,432,0,Rejected
+Rahul Gupta,34,Female,54690,58708,Clerk,Bad,761,0,Rejected
+Sneha Sharma,58,Female,82468,85807,Accountant,Bad,370,2,Rejected
+Priya Jain,23,Male,89363,98388,Analyst,Good,676,2,Approved
+Meera Babu,32,Female,38186,39309,Teacher,Bad,700,2,Rejected
+Priya Devi,48,Male,62655,63826,Accountant,No History,326,1,Rejected
+Rohit Verma,35,Female,81317,86627,Manager,No History,529,0,Rejected
+Kiran Jain,56,Male,53996,63598,Software Engineer,Bad,737,2,Rejected
+Ravi Reddy,48,Male,79046,88245,Sales Executive,No History,872,1,Rejected
+Vikram Yadav,33,Female,93796,101413,Technician,No History,494,1,Rejected
+Priya Kumar,59,Female,81755,84442,Accountant,Good,866,2,Approved
+Santosh Joshi,35,Male,27997,34138,Manager,Bad,870,2,Rejected
+Pooja Joshi,52,Male,24260,27791,Nurse,Bad,517,1,Rejected
+Arjun Reddy,47,Male,89762,98903,Software Engineer,No History,456,0,Rejected
+Anjali Reddy,29,Male,37333,44360,Analyst,Bad,762,0,Rejected
+Kiran Iyer,41,Female,43771,48881,Accountant,No History,707,3,Rejected
+Vikram Gupta,50,Female,65189,72369,Analyst,Good,744,0,Approved
+Manoj Das,31,Male,75810,82948,Analyst,Bad,589,0,Rejected
+Suresh Iyer,49,Female,49330,58974,Clerk,Good,578,0,Rejected
+Amit Mehta,26,Female,66844,68535,Consultant,No History,480,1,Rejected
+Arjun Babu,51,Male,88715,98520,Accountant,No History,507,1,Rejected
+Rahul Devi,40,Female,98928,100016,Accountant,No History,882,1,Rejected
+Vikram Pillai,59,Female,91034,95379,Clerk,Good,377,2,Rejected
+Kavya Sharma,28,Female,61580,70321,Teacher,Good,847,2,Approved
+Lakshmi Das,22,Female,69469,70881,Analyst,Bad,354,3,Rejected
+Ravi Yadav,40,Male,39391,43656,Teacher,Good,749,2,Rejected
+Neha Yadav,21,Male,98739,103049,Nurse,Bad,355,2,Rejected
+Rahul Patel,35,Male,39144,48366,Accountant,Bad,847,0,Rejected
+Ravi Joshi,37,Male,60150,69258,Nurse,Good,470,2,Rejected
+Rohit Iyer,29,Male,52893,61422,Analyst,No History,313,2,Rejected
+Ravi Sharma,54,Male,71711,80882,Software Engineer,Bad,806,0,Rejected
+Rahul Devi,47,Male,97362,101156,Manager,Bad,347,2,Rejected
+Divya Babu,36,Male,92427,100391,Analyst,No History,424,3,Rejected
+Vikram Das,36,Female,27917,34281,Nurse,Bad,553,1,Rejected
+Arjun Singh,30,Male,56762,64171,Clerk,No History,613,3,Rejected
+Rahul Rao,49,Male,73138,76240,Accountant,Good,790,0,Approved
+Amit Singh,60,Male,79401,86844,Accountant,No History,723,0,Rejected
+Lakshmi Yadav,36,Male,51430,52610,Clerk,No History,467,1,Rejected
+Priya Sharma,52,Male,70554,76639,Clerk,Bad,337,0,Rejected
+Anjali Joshi,43,Female,86485,88967,Teacher,No History,652,1,Rejected
+Neha Sharma,59,Female,63960,67283,Clerk,Bad,894,3,Rejected
+Manoj Verma,25,Female,70271,77482,Teacher,Good,684,1,Approved
+Arjun Singh,21,Female,76659,84328,Sales Executive,Good,347,3,Rejected
+Rahul Sharma,42,Male,99853,108740,Nurse,No History,319,3,Rejected
+Rahul Jain,21,Male,81077,85060,Manager,No History,447,3,Rejected
+Kavya Jain,43,Male,99505,104028,Clerk,No History,457,0,Rejected
+Pooja Pillai,28,Male,28590,31698,Software Engineer,No History,532,3,Rejected
+Anjali Devi,35,Female,23147,27288,Accountant,Bad,506,3,Rejected
+Rohit Mehta,31,Female,68795,78238,Technician,No History,743,2,Rejected
+Anjali Pillai,55,Female,81452,88425,Nurse,No History,678,2,Rejected
+Vikram Rao,51,Male,28749,38189,Sales Executive,Good,563,2,Rejected
+Kiran Sharma,40,Female,52690,61783,Analyst,Bad,369,0,Rejected
+Asha Jain,23,Male,56238,59940,Technician,Bad,631,0,Rejected
+Suresh Mehta,31,Female,29862,37831,Sales Executive,No History,775,0,Rejected
+Lakshmi Iyer,41,Female,46698,50544,Nurse,Bad,453,3,Rejected
+Arjun Rao,39,Male,42329,44493,Nurse,Bad,627,0,Rejected
+Pooja Reddy,22,Male,70189,77921,Technician,Bad,799,1,Rejected
+Pooja Pillai,40,Male,45287,53834,Consultant,Bad,540,0,Rejected
+Lakshmi Jain,57,Female,70404,77486,Consultant,Good,384,2,Rejected
+Neha Gupta,51,Male,29215,32547,Teacher,No History,428,0,Rejected
+Vikram Gupta,56,Female,61745,69467,Clerk,Bad,422,0,Rejected
+Divya Nair,58,Male,58683,66119,Technician,Bad,877,3,Rejected
+Asha Babu,58,Female,22983,25421,Teacher,Good,580,1,Rejected
+Sneha Das,44,Male,76891,82923,Technician,Good,727,3,Approved
+Kiran Joshi,60,Male,62132,70999,Clerk,Bad,305,2,Rejected
+Manoj Singh,46,Male,94579,100037,Nurse,No History,688,2,Rejected
+Neha Sharma,37,Female,39507,48811,Software Engineer,No History,894,1,Rejected
+Neha Pillai,27,Male,35197,39301,Teacher,No History,659,1,Rejected
+Manoj Rao,44,Male,43362,50215,Teacher,Bad,529,0,Rejected
+Arjun Reddy,22,Female,37014,42344,Manager,No History,763,0,Rejected
+Divya Sharma,47,Female,96506,104289,Manager,Bad,311,3,Rejected
+Manoj Kumar,58,Male,38396,39985,Technician,Bad,809,0,Rejected
+Anjali Yadav,29,Male,21866,29684,Analyst,Good,581,0,Rejected
+Priya Verma,46,Male,89165,95223,Clerk,Good,353,0,Rejected
+Kavya Patel,40,Female,89966,99056,Software Engineer,Bad,321,0,Rejected
+Manoj Iyer,49,Female,58717,67646,Analyst,Good,633,1,Rejected
+Amit Iyer,53,Male,98342,105953,Teacher,No History,612,2,Rejected
+Amit Pillai,50,Female,48057,49201,Technician,Bad,730,0,Rejected
+Kavya Iyer,23,Male,54806,58528,Analyst,No History,714,2,Rejected
+Arjun Jain,55,Male,40470,42502,Accountant,No History,473,1,Rejected
+Anjali Devi,23,Female,79671,81947,Analyst,Good,559,2,Rejected
+Anjali Das,27,Male,66274,72202,Clerk,Bad,397,0,Rejected
+Ravi Nair,34,Male,45127,49758,Nurse,No History,781,1,Rejected
+Kiran Iyer,31,Female,41255,49844,Manager,Bad,438,2,Rejected
+Suresh Mehta,32,Male,97548,106890,Software Engineer,Bad,575,2,Rejected
+Vikram Yadav,24,Female,72957,82737,Technician,Good,791,0,Approved
+Rohit Yadav,54,Male,90969,95814,Sales Executive,Good,852,2,Approved
+Santosh Devi,23,Female,30470,38640,Sales Executive,No History,554,1,Rejected
+Ravi Jain,54,Male,81627,86079,Software Engineer,Good,495,0,Rejected
+Neha Nair,28,Male,59634,69377,Technician,Good,406,1,Rejected
+Pooja Nair,29,Female,78680,85817,Sales Executive,Good,380,3,Rejected
+Anjali Das,41,Male,57251,60256,Clerk,Bad,627,3,Rejected
+Pooja Babu,40,Male,68615,74222,Sales Executive,Good,541,0,Rejected
+Asha Devi,31,Female,44288,51281,Technician,Good,303,3,Rejected
+Pooja Pillai,54,Male,40324,43459,Analyst,Bad,775,2,Rejected
+Manoj Patel,52,Male,80162,82894,Manager,Bad,620,2,Rejected
+Santosh Patel,46,Male,96987,99882,Technician,Good,868,1,Approved
+Manoj Babu,53,Male,92255,98801,Software Engineer,Good,788,0,Approved
+Sneha Jain,38,Female,58949,61467,Software Engineer,Good,677,2,Approved
+Pooja Iyer,56,Female,43599,44825,Consultant,Bad,852,1,Rejected
+Suresh Mehta,56,Male,41060,47068,Manager,No History,787,3,Rejected
+Divya Babu,24,Female,28651,32520,Analyst,Bad,507,3,Rejected
+Manoj Sharma,50,Female,21441,24595,Software Engineer,No History,692,1,Rejected
+Asha Patel,34,Female,77330,79866,Accountant,Bad,420,0,Rejected
+Neha Nair,40,Male,75626,84181,Nurse,Good,363,0,Rejected
+Kavya Iyer,26,Male,51268,54993,Sales Executive,Good,362,2,Rejected
+Divya Jain,23,Male,87343,92118,Clerk,Good,791,3,Approved
+Vikram Das,60,Male,36664,46612,Accountant,Good,426,3,Rejected
+Suresh Babu,49,Female,47067,54216,Clerk,Bad,698,0,Rejected
+Sneha Mehta,48,Male,95030,99380,Clerk,Good,359,0,Rejected
+Ravi Iyer,49,Female,65849,72520,Manager,Good,869,1,Approved
+Amit Patel,58,Male,40856,49593,Analyst,No History,874,1,Rejected
+Anjali Rao,31,Female,23560,29886,Sales Executive,Bad,479,1,Rejected
+Arjun Nair,34,Female,88156,96469,Sales Executive,Good,787,1,Approved
+Priya Reddy,44,Female,28773,31718,Software Engineer,Bad,819,3,Rejected
+Divya Joshi,21,Male,38879,42794,Clerk,Bad,606,2,Rejected
+Rahul Joshi,57,Male,45972,47707,Consultant,Good,834,2,Approved
+Neha Gupta,40,Male,25899,31896,Technician,No History,678,1,Rejected
+Sneha Iyer,39,Female,48490,54299,Analyst,Bad,369,1,Rejected
+Suresh Nair,48,Female,51999,60883,Clerk,Good,747,3,Approved
+Ravi Rao,27,Male,35023,36781,Consultant,Bad,677,2,Rejected
+Anjali Singh,23,Female,76394,82878,Teacher,No History,480,1,Rejected
+Priya Verma,49,Female,21778,30600,Software Engineer,No History,776,2,Rejected
+Rahul Singh,24,Male,78951,87069,Nurse,No History,896,0,Rejected
+Suresh Iyer,37,Female,86804,94454,Clerk,Bad,551,0,Rejected
+Ravi Devi,53,Male,74582,83574,Accountant,No History,335,0,Rejected
+Priya Babu,57,Male,73245,80767,Software Engineer,Bad,856,2,Rejected
+Lakshmi Verma,45,Male,31861,38990,Manager,No History,778,2,Rejected
+Santosh Mehta,44,Female,57988,62479,Technician,Bad,825,1,Rejected
+Santosh Das,45,Female,30505,32998,Technician,No History,338,0,Rejected
+Amit Joshi,26,Female,49624,55526,Nurse,Good,893,0,Approved
+Suresh Pillai,30,Female,69543,79533,Teacher,Good,722,3,Approved
+Kiran Verma,48,Male,29813,32309,Accountant,No History,582,1,Rejected
+Rahul Devi,35,Male,90266,95523,Manager,Bad,401,1,Rejected
+Arjun Verma,36,Male,85019,91966,Teacher,Bad,403,3,Rejected
+Pooja Patel,33,Male,96856,106734,Teacher,Good,709,0,Approved
+Ravi Mehta,57,Male,78319,83541,Nurse,Bad,473,2,Rejected
+Anjali Das,33,Female,40415,46872,Technician,No History,853,3,Rejected
+Lakshmi Mehta,33,Female,71507,76375,Teacher,Bad,338,2,Rejected
+Pooja Patel,57,Male,40077,42553,Technician,No History,794,2,Rejected
+Arjun Rao,22,Male,31750,37837,Consultant,Bad,747,0,Rejected
+Vikram Devi,28,Female,32292,41174,Nurse,Good,408,0,Rejected
+Lakshmi Yadav,46,Male,27553,32635,Analyst,Good,678,3,Rejected
+Anjali Mehta,25,Male,26773,28882,Consultant,Bad,671,0,Rejected
+Ravi Kumar,34,Male,54988,63560,Consultant,No History,459,2,Rejected
+Suresh Sharma,34,Female,79075,86106,Nurse,Good,336,0,Rejected
+Neha Das,31,Male,71359,74289,Clerk,No History,670,0,Rejected
+Ravi Pillai,36,Male,49720,50765,Sales Executive,Bad,459,2,Rejected
+Santosh Sharma,22,Female,85006,92628,Accountant,Good,888,0,Approved
+Amit Rao,26,Female,47934,56570,Consultant,Good,831,0,Approved
+Rahul Reddy,53,Male,68329,76048,Consultant,Good,410,3,Rejected
+Arjun Das,43,Female,67922,69996,Technician,No History,516,0,Rejected
+Rohit Rao,60,Male,30079,37760,Analyst,No History,390,0,Rejected
+Vikram Reddy,26,Male,65619,74914,Sales Executive,No History,848,0,Rejected
+Amit Iyer,48,Male,85399,89914,Accountant,No History,811,1,Rejected
+Asha Patel,33,Female,97215,104960,Accountant,No History,381,2,Rejected
+Neha Devi,55,Male,28942,37355,Analyst,Bad,368,1,Rejected
+Suresh Babu,34,Male,35941,44618,Teacher,Bad,887,0,Rejected
+Amit Pillai,25,Male,63127,70553,Nurse,No History,894,1,Rejected
+Arjun Patel,31,Female,81720,89780,Software Engineer,Bad,460,0,Rejected
+Kiran Pillai,30,Male,20550,26322,Teacher,Bad,622,0,Rejected
+Kavya Gupta,59,Female,55871,62598,Accountant,No History,788,3,Rejected
+Neha Singh,43,Female,43972,45054,Software Engineer,Good,393,1,Rejected
+Arjun Joshi,50,Female,30274,34211,Analyst,No History,330,2,Rejected
+Arjun Rao,45,Male,20750,30511,Software Engineer,Good,898,2,Rejected
+Sneha Patel,28,Female,21125,25859,Accountant,Bad,550,0,Rejected
+Amit Iyer,39,Female,56730,59796,Nurse,Bad,519,3,Rejected
+Pooja Verma,41,Female,34397,43928,Software Engineer,Bad,441,2,Rejected
+Kavya Joshi,33,Male,33657,41253,Sales Executive,No History,812,0,Rejected
+Priya Iyer,23,Female,24251,32344,Clerk,Good,462,0,Rejected
+Vikram Verma,54,Female,70854,74910,Software Engineer,Bad,472,1,Rejected
+Priya Mehta,34,Male,90836,100013,Technician,Bad,390,1,Rejected
+Asha Sharma,59,Female,53688,62298,Nurse,No History,446,0,Rejected
+Suresh Jain,50,Male,34857,41232,Nurse,No History,635,1,Rejected
+Ravi Das,27,Male,62231,67141,Clerk,Bad,775,2,Rejected
+Lakshmi Jain,36,Male,66648,70759,Nurse,No History,340,3,Rejected
+Pooja Mehta,52,Female,46793,54946,Manager,Bad,637,1,Rejected
+Divya Das,31,Female,55621,63758,Accountant,Bad,645,1,Rejected
+Priya Verma,22,Female,90085,99912,Teacher,Bad,576,0,Rejected
+Rohit Babu,43,Female,78140,81056,Manager,Good,533,0,Rejected
+Sneha Sharma,56,Male,79955,89613,Clerk,Good,743,1,Approved
+Manoj Kumar,58,Female,55868,57598,Technician,Good,879,2,Approved
+Vikram Sharma,31,Male,55791,60932,Technician,Good,599,2,Rejected
+Kiran Reddy,59,Male,65354,71125,Clerk,Bad,453,2,Rejected
+Rahul Pillai,28,Female,53081,57419,Consultant,No History,684,1,Rejected
+Asha Reddy,34,Female,79122,88185,Sales Executive,Bad,327,1,Rejected
+Vikram Verma,27,Female,71458,73583,Clerk,No History,641,0,Rejected
+Amit Patel,25,Female,99946,109341,Software Engineer,No History,390,2,Rejected
+Ravi Devi,32,Female,76749,80216,Clerk,Bad,668,3,Rejected
+Neha Kumar,42,Female,83352,85690,Software Engineer,No History,772,1,Rejected
+Priya Verma,57,Male,88713,97598,Technician,Bad,432,1,Rejected
+Rahul Sharma,22,Female,66483,72913,Consultant,Good,432,2,Rejected
+Vikram Das,50,Female,31672,37049,Accountant,No History,380,0,Rejected
+Suresh Kumar,31,Male,36448,44887,Clerk,Bad,458,0,Rejected
+Rahul Devi,38,Female,44491,50183,Nurse,Bad,860,0,Rejected
+Rahul Reddy,42,Female,62436,69387,Nurse,Bad,664,1,Rejected
+Sneha Patel,60,Male,59976,64882,Accountant,Bad,476,1,Rejected
+Rohit Nair,29,Female,45844,54640,Technician,Bad,319,3,Rejected
+Amit Babu,60,Female,82371,86589,Accountant,Bad,870,0,Rejected
+Amit Singh,55,Male,77923,85680,Clerk,Bad,423,3,Rejected
+Amit Babu,29,Male,34881,37094,Nurse,Good,305,3,Rejected
+Anjali Gupta,51,Male,26894,28228,Accountant,Bad,695,0,Rejected
+Asha Patel,44,Male,58764,67325,Software Engineer,No History,533,1,Rejected
+Manoj Devi,54,Male,69987,76612,Nurse,Good,416,1,Rejected
+Lakshmi Nair,31,Female,46637,49744,Software Engineer,Good,757,0,Approved
+Neha Pillai,48,Female,38055,43578,Technician,No History,419,3,Rejected
+Divya Devi,29,Male,79355,86063,Accountant,No History,810,1,Rejected
+Priya Iyer,59,Female,39630,41774,Software Engineer,No History,452,2,Rejected
+Neha Devi,38,Male,83878,90521,Consultant,No History,464,3,Rejected
+Pooja Singh,41,Male,29344,37784,Analyst,Good,861,3,Rejected
+Ravi Das,51,Female,53213,61768,Manager,No History,685,1,Rejected
+Kiran Jain,45,Female,54030,56631,Technician,Bad,610,3,Rejected
+Sneha Das,45,Female,85571,94882,Software Engineer,No History,744,1,Rejected
+Priya Mehta,55,Male,93284,96125,Technician,Bad,891,2,Rejected
+Amit Das,36,Male,89958,91600,Teacher,Bad,506,3,Rejected
+Amit Iyer,59,Male,91038,94114,Teacher,No History,654,0,Rejected
+Santosh Gupta,40,Female,43310,51529,Sales Executive,Bad,467,1,Rejected
+Rohit Babu,52,Male,74164,76615,Sales Executive,Bad,561,1,Rejected
+Arjun Yadav,38,Female,74357,81232,Clerk,No History,686,1,Rejected
+Amit Patel,37,Female,39169,43190,Nurse,Good,408,0,Rejected
+Priya Kumar,53,Male,29953,35116,Consultant,No History,795,3,Rejected
+Anjali Pillai,46,Male,90419,91563,Technician,Good,715,0,Approved
+Arjun Babu,52,Male,74571,80294,Teacher,Good,610,1,Rejected
+Vikram Singh,56,Male,42800,50992,Accountant,Good,551,1,Rejected
+Suresh Sharma,27,Male,42773,44081,Consultant,No History,825,2,Rejected
+Rohit Reddy,32,Female,58704,67968,Sales Executive,Bad,860,1,Rejected
+Sneha Nair,54,Female,76606,82177,Analyst,Good,669,2,Approved
+Arjun Mehta,46,Male,87522,93583,Sales Executive,Good,595,0,Rejected
+Amit Singh,55,Female,26771,31266,Accountant,Bad,764,1,Rejected
+Suresh Sharma,41,Male,79574,85342,Software Engineer,No History,869,0,Rejected
+Sneha Nair,22,Female,30280,36225,Sales Executive,No History,674,0,Rejected
+Ravi Jain,53,Female,49045,57668,Software Engineer,Bad,778,0,Rejected
+Divya Jain,23,Male,63555,68171,Sales Executive,Bad,738,1,Rejected
+Divya Rao,56,Female,74739,83618,Nurse,No History,879,2,Rejected
+Neha Nair,46,Female,73100,80933,Accountant,No History,574,2,Rejected
+Anjali Nair,28,Female,79995,86272,Manager,Bad,326,3,Rejected
+Vikram Mehta,45,Female,35082,36414,Nurse,No History,470,0,Rejected
+Suresh Babu,58,Female,80228,85026,Clerk,Bad,898,0,Rejected
+Meera Kumar,50,Female,34589,36573,Clerk,No History,635,0,Rejected
+Sneha Gupta,50,Female,36268,44008,Clerk,Good,517,2,Rejected
+Divya Jain,55,Female,23855,33586,Analyst,No History,738,0,Rejected
+Divya Rao,35,Male,83483,93012,Nurse,Bad,462,1,Rejected
+Sneha Patel,25,Male,84156,93130,Sales Executive,Bad,730,2,Rejected
+Santosh Devi,46,Female,98112,105272,Software Engineer,No History,407,2,Rejected
+Vikram Singh,25,Female,24205,25715,Teacher,No History,404,0,Rejected
+Anjali Babu,34,Female,44894,46362,Nurse,Bad,694,3,Rejected
+Amit Rao,50,Male,96170,102559,Sales Executive,No History,489,0,Rejected
+Pooja Mehta,37,Female,84384,92463,Analyst,No History,882,3,Rejected
+Kavya Rao,29,Male,94542,100042,Teacher,No History,691,2,Rejected
+Divya Yadav,29,Female,51188,54537,Accountant,No History,701,1,Rejected
+Lakshmi Sharma,34,Male,33424,37896,Manager,Good,720,3,Rejected
+Rohit Babu,25,Female,70153,71975,Technician,Good,756,2,Approved
+Rahul Jain,57,Female,27675,31125,Manager,No History,567,1,Rejected
+Manoj Yadav,27,Female,67801,73610,Software Engineer,Bad,324,0,Rejected
+Meera Gupta,40,Male,77211,84357,Consultant,No History,832,3,Rejected
+Asha Mehta,36,Male,59633,62708,Technician,No History,478,3,Rejected
+Arjun Verma,57,Male,71848,81421,Technician,Good,336,0,Rejected
+Amit Devi,56,Male,98764,100668,Manager,Bad,533,1,Rejected
+Kiran Singh,25,Female,49301,54059,Consultant,Bad,373,3,Rejected
+Anjali Reddy,60,Female,76973,86909,Software Engineer,Good,499,0,Rejected
+Arjun Nair,29,Female,85012,88610,Manager,Good,695,2,Approved
+Suresh Iyer,54,Female,39690,48939,Teacher,No History,581,3,Rejected
+Lakshmi Patel,31,Female,56236,57511,Technician,Bad,441,3,Rejected
+Neha Nair,49,Male,92696,94856,Nurse,Good,675,0,Approved
+Lakshmi Das,57,Male,59632,69307,Nurse,Good,510,1,Rejected
+Kavya Das,22,Female,55300,61028,Clerk,Bad,619,2,Rejected
+Asha Joshi,35,Male,33375,36965,Nurse,No History,594,1,Rejected
+Priya Reddy,54,Male,68727,78341,Nurse,No History,871,3,Rejected
+Lakshmi Das,45,Male,75793,81868,Consultant,Good,576,2,Rejected
+Vikram Mehta,42,Female,40254,47828,Software Engineer,No History,899,2,Rejected
+Vikram Devi,29,Female,97953,107710,Accountant,No History,767,3,Rejected
+Rahul Babu,37,Male,66118,74444,Technician,Bad,316,1,Rejected
+Divya Singh,30,Male,53482,60399,Technician,Good,463,3,Rejected
+Neha Iyer,57,Male,24296,28097,Technician,Good,698,1,Rejected
+Amit Gupta,40,Male,75668,82737,Teacher,Good,882,2,Approved
+Neha Yadav,43,Male,41228,48631,Clerk,Good,549,3,Rejected
+Asha Reddy,27,Male,86881,95594,Clerk,No History,325,0,Rejected
+Priya Patel,28,Female,43092,45592,Consultant,No History,435,0,Rejected
+Rahul Iyer,41,Male,39657,45858,Nurse,Bad,361,3,Rejected
+Suresh Rao,52,Male,32649,36646,Sales Executive,Bad,462,0,Rejected
+Vikram Das,60,Male,49093,50530,Sales Executive,Good,303,0,Rejected
+Asha Babu,23,Male,75449,79241,Nurse,Good,646,0,Rejected
+Sneha Babu,21,Male,92518,100301,Manager,No History,384,2,Rejected
+Rohit Gupta,44,Male,39795,43265,Manager,No History,857,1,Rejected
+Vikram Sharma,27,Female,68478,73334,Technician,Good,522,0,Rejected
+Lakshmi Pillai,49,Female,20432,22999,Technician,No History,762,1,Rejected
+Pooja Reddy,55,Female,35372,43230,Technician,Bad,371,0,Rejected
+Rahul Iyer,38,Male,58921,62566,Consultant,No History,366,2,Rejected
+Suresh Mehta,33,Female,95070,97892,Consultant,Bad,409,3,Rejected
+Meera Patel,38,Female,84848,93385,Clerk,No History,420,1,Rejected
+Priya Yadav,24,Female,64013,69225,Teacher,No History,814,1,Rejected
+Vikram Sharma,40,Female,39654,44738,Consultant,Bad,857,1,Rejected
+Arjun Iyer,39,Female,49937,54078,Nurse,Good,576,3,Rejected
+Asha Jain,32,Female,57918,67224,Analyst,Bad,531,1,Rejected
+Asha Nair,52,Male,86880,96505,Sales Executive,Good,352,3,Rejected
+Neha Rao,56,Male,37604,47046,Clerk,Bad,313,2,Rejected
+Rohit Reddy,43,Male,66453,69699,Nurse,Good,314,1,Rejected
+Rahul Pillai,43,Female,61287,69386,Analyst,No History,574,3,Rejected
+Anjali Babu,27,Male,70002,78847,Manager,No History,772,1,Rejected
+Vikram Yadav,45,Female,94642,102015,Nurse,Bad,720,3,Rejected
+Kavya Mehta,31,Male,51031,54975,Technician,Good,799,2,Approved
+Divya Sharma,42,Male,22174,26030,Nurse,Bad,540,0,Rejected
+Amit Das,32,Female,37152,43980,Software Engineer,Good,751,1,Rejected
+Neha Reddy,60,Female,87872,94279,Analyst,Good,866,1,Approved
+Meera Yadav,43,Female,59421,61525,Manager,No History,339,1,Rejected
+Lakshmi Devi,28,Male,95665,104229,Software Engineer,Bad,440,0,Rejected
+Neha Nair,37,Male,65249,72792,Analyst,Bad,780,3,Rejected
+Kavya Pillai,46,Female,84950,91014,Teacher,No History,426,1,Rejected
+Sneha Patel,28,Male,77013,86708,Analyst,No History,490,2,Rejected
+Meera Rao,53,Male,25309,33651,Software Engineer,Bad,676,0,Rejected
+Ravi Yadav,37,Female,69764,76987,Clerk,Bad,784,0,Rejected
+Santosh Patel,50,Male,78417,86229,Software Engineer,Good,341,3,Rejected
+Ravi Nair,35,Female,31172,38990,Technician,Good,470,0,Rejected
+Divya Patel,42,Female,34083,38297,Manager,Good,768,0,Rejected
+Kavya Kumar,34,Male,78578,84634,Technician,No History,637,2,Rejected
+Arjun Joshi,46,Female,68549,70856,Software Engineer,No History,458,3,Rejected
+Pooja Sharma,55,Male,58335,67712,Consultant,No History,536,1,Rejected
+Rahul Babu,48,Male,63352,66903,Accountant,Good,570,3,Rejected
+Meera Patel,21,Male,82802,87946,Accountant,No History,740,0,Rejected
+Santosh Jain,24,Female,62564,64959,Sales Executive,Bad,375,3,Rejected
+Amit Devi,58,Male,52023,59805,Sales Executive,Bad,426,1,Rejected
+Priya Gupta,27,Female,31912,34541,Technician,Bad,520,1,Rejected
+Vikram Das,32,Male,45749,53647,Teacher,No History,435,0,Rejected
+Suresh Sharma,46,Male,35034,36969,Analyst,Bad,626,3,Rejected
+Amit Reddy,57,Male,37953,45281,Clerk,Bad,426,0,Rejected
+Anjali Reddy,48,Male,68696,70504,Software Engineer,Good,353,0,Rejected
+Anjali Singh,47,Female,59455,69148,Sales Executive,No History,363,2,Rejected
+Manoj Babu,34,Male,64771,70182,Software Engineer,Good,798,2,Approved
+Priya Mehta,49,Male,76526,78143,Clerk,No History,383,1,Rejected
+Divya Jain,31,Female,76735,79407,Consultant,No History,330,3,Rejected
+Rohit Rao,24,Male,53583,62773,Accountant,No History,601,2,Rejected
+Manoj Reddy,54,Female,68553,75356,Sales Executive,No History,755,0,Rejected
+Santosh Singh,24,Female,66875,71114,Accountant,No History,475,3,Rejected
+Divya Iyer,42,Female,23331,24677,Manager,No History,649,2,Rejected
+Vikram Jain,37,Male,70565,73056,Manager,Good,740,2,Approved
+Priya Nair,58,Male,99281,107099,Nurse,Bad,823,0,Rejected
+Divya Yadav,48,Female,84047,85454,Technician,Good,834,3,Approved
+Neha Iyer,28,Male,36357,38954,Manager,No History,900,0,Rejected
+Anjali Reddy,32,Female,29056,35070,Accountant,No History,348,2,Rejected
+Suresh Babu,49,Male,79538,88386,Nurse,Good,752,3,Approved
+Meera Mehta,24,Female,88403,89895,Sales Executive,Bad,679,3,Rejected
+Vikram Devi,21,Male,37924,39691,Manager,No History,468,0,Rejected
+Kavya Babu,28,Male,70757,77550,Clerk,Good,429,3,Rejected
+Vikram Sharma,33,Female,56904,58328,Clerk,Good,441,3,Rejected
+Amit Reddy,40,Male,31263,39320,Accountant,Good,353,2,Rejected
+Divya Singh,25,Female,58362,60467,Software Engineer,Good,683,0,Approved
+Neha Rao,44,Male,36137,39947,Technician,Good,365,3,Rejected
+Asha Singh,31,Male,57011,60324,Accountant,Bad,465,2,Rejected
+Rohit Kumar,30,Female,64797,71226,Manager,Good,354,1,Rejected
+Lakshmi Patel,32,Female,20029,23827,Nurse,Good,585,3,Rejected
+Amit Nair,53,Male,23625,30562,Manager,Good,701,2,Rejected
+Suresh Gupta,55,Female,74547,80023,Teacher,Good,454,2,Rejected
+Meera Patel,34,Female,51012,58787,Manager,Good,693,2,Approved
+Priya Singh,24,Female,74265,80320,Analyst,Bad,671,2,Rejected
+Manoj Pillai,57,Male,65207,74381,Manager,No History,583,1,Rejected
+Manoj Devi,31,Female,22131,23685,Analyst,Good,636,2,Rejected
+Ravi Joshi,46,Male,21916,29269,Consultant,Bad,372,1,Rejected
+Lakshmi Verma,40,Male,90118,92789,Teacher,Good,877,1,Approved
+Arjun Verma,52,Male,46774,55249,Consultant,Bad,516,0,Rejected
+Rohit Iyer,34,Male,22354,31962,Software Engineer,Good,583,3,Rejected
+Meera Devi,45,Male,45843,55758,Analyst,No History,413,3,Rejected
+Asha Rao,35,Female,23744,27238,Teacher,No History,548,3,Rejected
+Suresh Devi,33,Female,55744,61944,Technician,Bad,899,1,Rejected
+Rahul Devi,49,Male,56780,65675,Analyst,Good,783,2,Approved
+Asha Yadav,36,Female,66939,68574,Teacher,Bad,663,2,Rejected
+Divya Verma,40,Female,89534,94443,Software Engineer,No History,673,1,Rejected
+Meera Verma,44,Female,45927,54028,Software Engineer,No History,900,1,Rejected
+Lakshmi Jain,53,Female,33531,43211,Accountant,No History,816,1,Rejected
+Rahul Singh,34,Female,67379,74627,Sales Executive,Good,777,0,Approved
+Pooja Sharma,23,Male,75907,77432,Teacher,No History,362,0,Rejected
+Rohit Verma,36,Male,78563,82942,Accountant,Good,356,1,Rejected
+Suresh Gupta,43,Male,78251,81332,Consultant,No History,629,0,Rejected
+Sneha Rao,60,Male,74034,77015,Software Engineer,No History,592,1,Rejected
+Lakshmi Singh,24,Male,70152,74816,Software Engineer,Bad,817,3,Rejected
+Amit Yadav,59,Female,50003,59397,Clerk,No History,373,3,Rejected
+Divya Devi,25,Male,60832,62036,Nurse,Good,713,3,Approved
+Lakshmi Gupta,39,Male,39004,40127,Consultant,No History,683,3,Rejected
+Rohit Babu,29,Female,59664,62808,Manager,Bad,582,0,Rejected
+Rohit Sharma,40,Male,20175,25902,Consultant,Bad,518,2,Rejected
+Kavya Iyer,23,Female,69098,74311,Analyst,Bad,616,2,Rejected
+Pooja Mehta,42,Female,53408,57591,Manager,No History,394,1,Rejected
+Vikram Jain,27,Male,68654,78160,Teacher,Good,571,0,Rejected
+Ravi Joshi,26,Female,84817,87374,Software Engineer,Bad,376,2,Rejected
+Rahul Joshi,37,Female,68846,73981,Software Engineer,Good,510,0,Rejected
+Suresh Sharma,28,Male,39263,46298,Consultant,Bad,542,2,Rejected
+Santosh Sharma,32,Female,26069,33237,Technician,No History,595,3,Rejected
+Priya Das,30,Male,46248,54480,Analyst,Bad,861,2,Rejected
+Lakshmi Joshi,37,Male,84210,86200,Analyst,No History,793,3,Rejected
+Neha Mehta,55,Male,92230,101833,Manager,No History,762,3,Rejected
+Lakshmi Kumar,39,Male,99869,106621,Sales Executive,No History,592,2,Rejected
+Suresh Joshi,31,Male,31313,40602,Teacher,Bad,556,1,Rejected
+Rahul Rao,22,Male,55852,60116,Technician,Bad,845,2,Rejected
+Lakshmi Nair,34,Male,58716,59822,Clerk,Bad,617,0,Rejected
+Ravi Reddy,55,Male,38930,40216,Analyst,Good,884,2,Rejected
+Arjun Joshi,41,Female,84183,91589,Technician,No History,686,2,Rejected
+Arjun Rao,42,Female,83650,87259,Clerk,Good,626,2,Rejected
+Kavya Pillai,35,Female,37672,42088,Analyst,Good,318,0,Rejected
+Vikram Devi,44,Male,20474,24485,Software Engineer,Good,617,1,Rejected
+Suresh Gupta,35,Female,88053,92266,Analyst,Bad,760,0,Rejected
+Rohit Joshi,43,Female,38070,40311,Manager,No History,595,2,Rejected
+Rahul Sharma,51,Male,69415,76684,Consultant,Good,698,2,Approved
+Kiran Yadav,49,Male,22231,23335,Nurse,No History,888,3,Rejected
+Rahul Pillai,25,Female,98889,101534,Nurse,Bad,454,2,Rejected
+Sneha Patel,37,Male,48435,53319,Sales Executive,No History,326,2,Rejected
+Rohit Patel,28,Female,22112,27389,Accountant,No History,369,1,Rejected
+Amit Joshi,33,Female,97253,99960,Technician,Bad,556,0,Rejected
+Amit Patel,28,Female,89642,90806,Sales Executive,Good,506,3,Rejected
+Kiran Babu,21,Female,59576,65586,Accountant,Good,635,2,Rejected
+Rohit Yadav,55,Male,99286,107951,Technician,No History,799,1,Rejected
+Asha Joshi,46,Male,24601,30186,Technician,No History,508,3,Rejected
+Lakshmi Gupta,22,Male,31545,39398,Nurse,Bad,315,1,Rejected
+Kavya Kumar,45,Male,29687,31265,Technician,Bad,673,1,Rejected
+Kiran Patel,45,Male,32187,40678,Accountant,Good,720,3,Rejected
+Lakshmi Nair,57,Female,64875,66394,Teacher,No History,650,3,Rejected
+Suresh Patel,39,Female,94818,100186,Software Engineer,Bad,615,3,Rejected
+Neha Joshi,33,Female,35427,38397,Software Engineer,Bad,508,3,Rejected
+Asha Mehta,28,Male,33852,35730,Analyst,No History,490,3,Rejected
+Anjali Patel,35,Male,80536,85780,Technician,Good,703,1,Approved
+Neha Jain,34,Male,51414,54326,Technician,Good,558,1,Rejected
+Sneha Verma,28,Male,51143,60632,Consultant,Bad,721,0,Rejected
+Vikram Jain,26,Male,54264,59545,Accountant,Good,623,3,Rejected
+Priya Iyer,39,Female,34293,43543,Clerk,No History,771,2,Rejected
+Meera Joshi,33,Male,77992,82732,Consultant,Bad,400,0,Rejected
+Santosh Pillai,27,Male,46504,51345,Software Engineer,No History,672,3,Rejected
+Divya Joshi,47,Female,21511,29246,Software Engineer,Bad,816,3,Rejected
+Kiran Jain,48,Female,57868,63268,Sales Executive,No History,302,3,Rejected
+Pooja Singh,36,Female,90289,96848,Software Engineer,No History,571,2,Rejected
+Manoj Pillai,56,Male,90509,97491,Nurse,Bad,381,0,Rejected
+Kavya Jain,28,Male,57329,65745,Sales Executive,Good,312,3,Rejected
+Lakshmi Kumar,21,Female,66736,73241,Software Engineer,No History,763,0,Rejected
